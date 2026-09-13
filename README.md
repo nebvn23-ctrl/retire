@@ -31,7 +31,7 @@ Everything lives in one place. Open `index.html`, search for `EDIT ME`, and edit
 
 ```js
 var CONFIG = {
-  CA:    "Hcx8W1TmBQnXEVNWKiPhckP5qVjbCAJ1NpdQV4Q9pump",
+  CA:    "7X8Mdp98VyK64AEJh4qGFYnLngguyMsgqS1kdNtrpump",
   pump:  "https://pump.fun/coin/Hcx8W1TmBQnXEVNWKiPhckP5qVjbCAJ1NpdQV4Q9pump",
   x:     "https://x.com/RetirePumpFun",
   chart: "https://dexscreener.com/solana/Hcx8W1TmBQnXEVNWKiPhckP5qVjbCAJ1NpdQV4Q9pump",
